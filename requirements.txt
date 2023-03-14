@@ -1,3 +1,4 @@
 git+https://github.com/PrithivirajDamodaran/Gramformer.git
 streamlit
 torch
+spacy download en
