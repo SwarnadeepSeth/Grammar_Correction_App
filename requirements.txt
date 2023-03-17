@@ -1,4 +1,4 @@
 git+https://github.com/PrithivirajDamodaran/Gramformer.git
 streamlit
 torch
-spacy
+spacy == 2.3.8
