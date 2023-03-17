@@ -1,4 +1,5 @@
 spacy == 2.3.8
+spacy download en
 git+https://github.com/PrithivirajDamodaran/Gramformer.git
 streamlit
 torch
